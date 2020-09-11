@@ -1,0 +1,15 @@
+.chores {
+    color: #4D6466;
+    font: 16px "Fira Sans";  
+
+}
+
+h3{
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+li {
+    font-style: italic;
+
+}
