@@ -1,0 +1,7 @@
+hr {
+   border-width: 5px;
+}
+ #middle {
+   border-style: none dashed none dashed;
+   border-width: 2px;
+ }
